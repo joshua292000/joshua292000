@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Joshua and I’m a Systems Engineer with a passion for developing innovative systems that accelerate the efficiency and effectiveness<br>of organizational success</p>
+<p align="left">Hi 👋! My name is Joshua and I’m a Systems Engineer with a passion for developing innovative systems that accelerate the efficiency and effectiveness of organizational success</p>
 
 ###
 
